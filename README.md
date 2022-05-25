@@ -68,11 +68,10 @@ Para executar este projeto, você precisa do [reactnative](https://reactnative.d
 
 * Em seguida, abra seu navegador ( ou utilize algum programa como o insomnia por exemplo ) url : (http://localhost:19006/)
 
+```bash
     # O projeto será executado na porta:19006
 
 ```
-```bash
----
 
 ## :alien: Autor
 
