@@ -19,7 +19,7 @@
 
 ## :clipboard: Esse projeto é baseado no googleMaps.
 
-Este projeto foi feito com um objetivo - Fazer a localização de longitude e Altitude.
+Este projeto foi feito com um objetivo - Fazer a localização de longitude e latitude.
 
 ---
 ## :computer: Tecnologias
