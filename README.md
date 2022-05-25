@@ -71,6 +71,7 @@ Para executar este projeto, você precisa do [reactnative](https://reactnative.d
     # O projeto será executado na porta:19006
 
 ```
+```bash
 ---
 
 ## :alien: Autor
